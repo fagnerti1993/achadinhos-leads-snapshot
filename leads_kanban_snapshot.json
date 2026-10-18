@@ -1,0 +1,90 @@
+{
+  "atualizado_em": "2026-10-31T18:14:02.409518+00:00",
+  "telegram": {
+    "total_lista": 4577,
+    "confirmados_telegram": 415,
+    "membros_canal": 193,
+    "contatados_dm": 411,
+    "saidas_canal": 7,
+    "adicionados_status": {
+      "ok": 63,
+      "nao_resolveu_telegram": 7,
+      "erro_limite_200": 18
+    }
+  },
+  "whatsapp": {
+    "total_lista": 4577,
+    "pessoas_tentadas": 239,
+    "tentativas_hoje": {
+      "01": 9,
+      "02": 9,
+      "03": 9
+    },
+    "grupos": {
+      "ofertas01": {
+        "nome": "Achadinhos Prime | Ofertas 01",
+        "membros": 106,
+        "ok": 23,
+        "ja_participava": 62,
+        "saidas": 27,
+        "erros": 0
+      },
+      "ofertas02": {
+        "nome": "Achadinhos Prime | Ofertas 02",
+        "membros": 18,
+        "ok": 19,
+        "ja_participava": 2,
+        "saidas": 1,
+        "erros": 4
+      },
+      "ofertas03": {
+        "nome": "Achadinhos Prime | Ofertas 03",
+        "membros": 14,
+        "ok": 21,
+        "ja_participava": 2,
+        "saidas": 1,
+        "erros": 5
+      },
+      "casa": {
+        "nome": "Achadinhos Prime | Casa & Organização",
+        "membros": 22,
+        "ok": 20,
+        "ja_participava": 0,
+        "saidas": 1,
+        "erros": 5
+      },
+      "tecnologia": {
+        "nome": "Achadinhos Prime | Tecnologia",
+        "membros": 20,
+        "ok": 22,
+        "ja_participava": 0,
+        "saidas": 3,
+        "erros": 3
+      },
+      "moda_feminina": {
+        "nome": "Achadinhos Prime | Moda Feminina",
+        "membros": 13,
+        "ok": 22,
+        "ja_participava": 0,
+        "saidas": 5,
+        "erros": 0
+      },
+      "moda_masculina": {
+        "nome": "Achadinhos Prime | Moda Masculina",
+        "membros": 15,
+        "ok": 19,
+        "ja_participava": 0,
+        "saidas": 3,
+        "erros": 0
+      },
+      "beleza": {
+        "nome": "Achadinhos Prime | Beleza & Cuidados",
+        "membros": 13,
+        "ok": 20,
+        "ja_participava": 2,
+        "saidas": 4,
+        "erros": 1
+      }
+    }
+  }
+}
