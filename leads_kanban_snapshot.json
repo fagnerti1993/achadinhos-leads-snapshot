@@ -1,0 +1,91 @@
+{
+  "atualizado_em": "2026-11-07T12:03:22.527576+00:00",
+  "telegram": {
+    "total_lista": 4577,
+    "confirmados_telegram": 415,
+    "membros_canal": 200,
+    "contatados_dm": 415,
+    "saidas_canal": 7,
+    "adicionados_status": {
+      "ok": 73,
+      "nao_resolveu_telegram": 10,
+      "erro_limite_200": 18,
+      "erro: Invalid object ID for a user. Make sure to pass the right types, for instance making sure that the request is designed for users or otherwise look for a different one more suited (caused by InviteToChannelRequest)": 1
+    }
+  },
+  "whatsapp": {
+    "total_lista": 4577,
+    "pessoas_tentadas": 277,
+    "tentativas_hoje": {
+      "01": 2,
+      "02": 1,
+      "03": 1
+    },
+    "grupos": {
+      "ofertas01": {
+        "nome": "Achadinhos Prime | Ofertas 01",
+        "membros": 107,
+        "ok": 27,
+        "ja_participava": 62,
+        "saidas": 32,
+        "erros": 1
+      },
+      "ofertas02": {
+        "nome": "Achadinhos Prime | Ofertas 02",
+        "membros": 19,
+        "ok": 24,
+        "ja_participava": 2,
+        "saidas": 3,
+        "erros": 4
+      },
+      "ofertas03": {
+        "nome": "Achadinhos Prime | Ofertas 03",
+        "membros": 18,
+        "ok": 26,
+        "ja_participava": 2,
+        "saidas": 2,
+        "erros": 5
+      },
+      "casa": {
+        "nome": "Achadinhos Prime | Casa & Organização",
+        "membros": 24,
+        "ok": 24,
+        "ja_participava": 0,
+        "saidas": 3,
+        "erros": 6
+      },
+      "tecnologia": {
+        "nome": "Achadinhos Prime | Tecnologia",
+        "membros": 20,
+        "ok": 27,
+        "ja_participava": 0,
+        "saidas": 7,
+        "erros": 3
+      },
+      "moda_feminina": {
+        "nome": "Achadinhos Prime | Moda Feminina",
+        "membros": 12,
+        "ok": 27,
+        "ja_participava": 0,
+        "saidas": 9,
+        "erros": 0
+      },
+      "moda_masculina": {
+        "nome": "Achadinhos Prime | Moda Masculina",
+        "membros": 15,
+        "ok": 22,
+        "ja_participava": 0,
+        "saidas": 5,
+        "erros": 1
+      },
+      "beleza": {
+        "nome": "Achadinhos Prime | Beleza & Cuidados",
+        "membros": 17,
+        "ok": 24,
+        "ja_participava": 2,
+        "saidas": 4,
+        "erros": 1
+      }
+    }
+  }
+}
